@@ -1,0 +1,48 @@
+plan,billing_cycle,acquisition_channel,total_users,churned_users
+Professional,Monthly,"Organic Search",19,9
+Professional,Annual,"Direct Sales",10,1
+Starter,Annual,Partner,13,11
+Business,Annual,Partner,15,3
+Starter,Annual,"Direct Sales",4,2
+Business,Annual,Referral,12,3
+Starter,Monthly,Partner,22,16
+Starter,Monthly,Referral,35,31
+Business,Monthly,Partner,18,11
+Business,Annual,"Organic Search",16,5
+Business,Monthly,Referral,18,11
+Starter,Monthly,"Paid Ads",21,18
+Starter,Monthly,"Organic Search",29,21
+Business,Monthly,"Paid Ads",17,10
+Professional,Annual,Partner,15,6
+Enterprise,Annual,"Organic Search",4,0
+Enterprise,Annual,Referral,7,1
+Starter,Annual,Referral,15,8
+Professional,Annual,"Organic Search",18,4
+Business,Annual,"Direct Sales",3,0
+Starter,Annual,"Organic Search",26,14
+Professional,Monthly,Referral,17,11
+Professional,Monthly,"Direct Sales",14,7
+Professional,Annual,"Paid Ads",10,3
+Professional,Annual,"Social Media",5,3
+Starter,Monthly,"Social Media",11,9
+Professional,Monthly,"Paid Ads",25,14
+Professional,Monthly,Partner,13,9
+Business,Monthly,"Organic Search",25,11
+Professional,Annual,Referral,16,9
+Starter,Monthly,"Direct Sales",16,8
+Business,Annual,"Paid Ads",20,5
+Enterprise,Monthly,"Organic Search",16,3
+Enterprise,Monthly,Partner,2,0
+Business,Monthly,"Social Media",3,0
+Starter,Annual,"Social Media",10,4
+Professional,Monthly,"Social Media",11,7
+Enterprise,Monthly,Referral,4,2
+Starter,Annual,"Paid Ads",15,11
+Enterprise,Annual,"Paid Ads",3,0
+Enterprise,Monthly,"Social Media",3,1
+Business,Monthly,"Direct Sales",6,3
+Enterprise,Annual,"Social Media",2,1
+Business,Annual,"Social Media",7,4
+Enterprise,Monthly,"Paid Ads",4,0
+Enterprise,Monthly,"Direct Sales",3,1
+Enterprise,Annual,Partner,2,2
