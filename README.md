@@ -171,17 +171,3 @@ The core problem:
 * Python (Pandas, data analysis)
 * Power BI (Dashboard & visualization)
 * Business Analysis (Churn, CLV, CAC, Unit Economics)
-
----
-
-## Final Note
-
-This project focuses on **connecting data to business decisions**, not just building dashboards.
-It highlights how growth metrics can be misleading without understanding **retention, customer behavior, and unit economics**.
-
----
-
-If you paste this into GitHub + add your screenshots cleanly?
-
-👉 This stops being a project
-👉 And starts looking like **“hire this person” material** 😌
